@@ -1,5 +1,5 @@
 
-TAG:="ljocha/deepei"
+TAG:="Mohammed-Abbass/deepei"
 UID:=$(shell id -u)
 
 build:
