@@ -1,5 +1,5 @@
 
-TAG:="myehia/deepei"
+TAG:="mabbass/deepei"
 UID:=$(shell id -u)
 
 build:
